@@ -1,0 +1,14 @@
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/bin/Debug/net7.0/ex5
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/bin/Debug/net7.0/ex5.deps.json
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/bin/Debug/net7.0/ex5.runtimeconfig.json
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/bin/Debug/net7.0/ex5.dll
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/bin/Debug/net7.0/ex5.pdb
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.AssemblyInfoInputs.cache
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.AssemblyInfo.cs
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.csproj.CoreCompileInputs.cache
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.dll
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/refint/ex5.dll
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.pdb
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ex5.genruntimeconfig.cache
+/mnt/c/Users/omistaja/git/leetcode-challenges/C#-codes/ex5/obj/Debug/net7.0/ref/ex5.dll
